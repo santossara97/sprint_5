@@ -2,4 +2,4 @@ import streamlit as st
  
 st.header('Jogando uma moeda') 
  
-st.write('Ainda nÆo ‚ um aplicativo funcional. Em constru‡Æo.') 
+st.write('Ainda nao â€š um aplicativo funcional. Em construcao.') 
